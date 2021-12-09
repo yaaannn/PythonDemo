@@ -1,5 +1,4 @@
 class Car:
-
     odometer = 0
 
     def __init__(self, make, price) -> None:
